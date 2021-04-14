@@ -1,0 +1,1 @@
+👋 Hey, my name is [SeanMcP](https://www.seanmcp.com/articles/how-to-pronounce-my-name/). I'm interested in using technology to help others, especially in the field of education. If you're interested in building education technology, [I'd love to connect](mailto:sean@seanmcp.com?subject=Building%20EdTech%20(GitHub)).
